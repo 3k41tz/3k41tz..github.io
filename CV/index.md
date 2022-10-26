@@ -9,7 +9,10 @@
   <body>
     <div id="contenedor">
       <div id="columnas">
-        <img src="pepe.png">
+        <div id="menu">
+          <img src="pepe.png">
+      
+        </div>
       </div>
       <div id="columnas">
         <div id="menu">
