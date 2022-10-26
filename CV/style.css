@@ -1,0 +1,93 @@
+
+
+* { 
+    margin:0;
+    padding:0;
+  }
+  a:link, a:visited, a:hover, a:active {
+    color:#cfc;
+    font-size:1em;
+  }
+  body {
+    background:#eed;
+    font-family:verdana;
+  }
+  h1 {
+    color:#00a;
+    font-size:1.8em;
+    padding-bottom:.5em; 
+    font-weight: bold;
+  }
+  img {
+    width:220px;
+    height:175px;
+  }
+  li {
+    margin-left:1.3em;
+    padding-bottom:.3em;
+    padding-right:.2em;
+  }
+  p {
+    font-size:1em;
+    padding-bottom:.5em; 
+  }
+#pie { 
+    background-color:#bbb;
+    clear:both;
+    color:#900;
+    padding:2%;
+    text-align:center;
+  }
+#nombre{
+    text-align:center;
+    font-weight:bold;
+    padding-bottom: 5px;
+}
+#NoDecoration{
+    text-decoration:none;
+    color:#000;
+}
+#h3{
+    color:#00a;
+    padding-bottom: 8px;
+    font-weight: bold;
+}
+#r-margin{
+    padding-right: 8px;
+}
+#table{
+    text-align:center;
+    font-size:1em;
+}
+.left{
+    background: rgb(153, 220, 224);
+    width: 20%;
+    float: left;
+    border-right-color: #000;
+    border-right-width: 2px;
+    border-right-style: solid;
+    padding: 2%;
+    height: 2560px ;
+} 
+.right {
+    background: rgb(176, 255, 176);
+    max-width: 100%;
+    padding: 2%;
+    height: 2559px;
+
+}
+.seccion1, .seccion2 {
+    display: inline-block;
+    padding-bottom: 100%;
+    padding: 4%;
+    width: 100%;
+}
+.centro{
+    max-width: 100%;
+    min-height: 100%;
+}
+.seccion {
+    background: rgb(176, 255, 176);
+    margin-left: 2%;
+
+}
